@@ -1,0 +1,22 @@
+{
+    "name": "sa/module-content",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Simon Axilais",
+            "email": "simon.axilais@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sa\\Content\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

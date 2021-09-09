@@ -1,0 +1,7 @@
+<integrations>
+    <integration name="SaContent">
+        <resources>
+            <resource name="Sa_Content::api" />
+        </resources>
+    </integration>
+</integrations>
