@@ -18,8 +18,5 @@
         "files": [
             "registration.php"
         ]
-    },
-    "repositories": [
-        {"type": "composer", "url": "https://simon-axilais.repo.repman.io"}
-    ]
+    }
 }
